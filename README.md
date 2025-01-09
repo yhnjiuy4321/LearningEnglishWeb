@@ -6,7 +6,7 @@
 Vue.js、CSS、Bootstrap、JavaScript
 
 ## 簡報(Canva)
-[逢甲海生館](https://www.canva.com/design/DAGPGrqmHqM/7XxfeDghfpinTWqENHywwg/edit?utm_content=DAGPGrqmHqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[LearnEng](https://www.canva.com/design/DAGPGrqmHqM/7XxfeDghfpinTWqENHywwg/edit?utm_content=DAGPGrqmHqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 環境設定與安裝
 ```sh
