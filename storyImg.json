@@ -1,0 +1,44 @@
+{
+  "img_url1": {
+    "Exam Time": "australia.png",
+    "Shopping Trip": "azerbaijan.png",
+    "Rainy Day": "belgium.png",
+    "School Trip": "brazil.png",
+    "Canada": "canada.png",
+    "China": "china.png",
+    "France": "france.png",
+    "Germany": "germany.png",
+    "Great_Britain": "great-britain.png",
+    "Hong_Kong": "hong-kong.png",
+    "India": "india.png",
+    "Italy": "italy.png"
+  },
+  "img_url2": {
+    "The Importance of Time Management": "australia.png",
+    "The Role of Emotional Intelligence in Leadership": "azerbaijan.png",
+    "The Impact of Digital Transformation on Modern Businesses": "belgium.png",
+    "Sustainable Practices in Modern Agriculture": "brazil.png",
+    "Canada": "canada.png",
+    "China": "china.png",
+    "France": "france.png",
+    "Germany": "germany.png",
+    "Great_Britain": "great-britain.png",
+    "Hong_Kong": "hong-kong.png",
+    "India": "india.png",
+    "Italy": "italy.png"
+  },
+  "img_url3": {
+    "Preparing for a Job Interview": "australia.png",
+    "Planning a Family Vacation": "azerbaijan.png",
+    "Hosting a Dinner Party": "belgium.png",
+    "Starting a New Hobby": "brazil.png",
+    "Canada": "canada.png",
+    "China": "china.png",
+    "France": "france.png",
+    "Germany": "germany.png",
+    "Great_Britain": "great-britain.png",
+    "Hong_Kong": "hong-kong.png",
+    "India": "india.png",
+    "Italy": "italy.png"
+  }
+}
